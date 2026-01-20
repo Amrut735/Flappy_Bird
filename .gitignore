@@ -1,0 +1,4 @@
+.vscode/
+*.class
+flappybird_highscore.dat
+*.log
