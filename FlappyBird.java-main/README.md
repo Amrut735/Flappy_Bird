@@ -12,7 +12,6 @@
 <p align="center">
   <img src="docs/preview.png" alt="Gameplay preview" width="760">
 </p>
-<p align="center"><em>Add a screenshot at <code>docs/preview.png</code> to show the game.</em></p>
 
 ## Highlights
 
