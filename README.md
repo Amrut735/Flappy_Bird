@@ -9,10 +9,6 @@
   </p>
 </div>
 
-<p align="center">
-  <img src="docs/preview.png" alt="Gameplay preview" width="760">
-</p>
-
 ## 🎮 Gameplay Snapshot
 
 <p align="center">
