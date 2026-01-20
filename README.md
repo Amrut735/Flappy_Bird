@@ -13,7 +13,13 @@
   <img src="docs/preview.png" alt="Gameplay preview" width="760">
 </p>
 
-## Highlights
+## 🎮 Gameplay Snapshot
+
+<p align="center">
+  <img src="docs/Attached_image.png" alt="In-game screenshot" width="820">
+</p>
+
+## Highlights ⭐
 
 <table>
   <tr>
@@ -81,14 +87,17 @@ private static final Color BIRD_COLOR = Color.YELLOW;
 ## Project Structure
 
 ```
-FlappyBird.java-main/
-├── FlappyBird.java
+Flappy_Bird/
 ├── README.md
-├── flappybird_highscore.dat
-├── hit.wav
-├── jump.wav
-├── score.wav
-└── select.wav
+├── docs/
+│   └── preview.png
+└── FlappyBird.java-main/
+    ├── FlappyBird.java
+    ├── flappybird_highscore.dat
+    ├── hit.wav
+    ├── jump.wav
+    ├── score.wav
+    └── select.wav
 ```
 
 ## Troubleshooting
